@@ -14,3 +14,9 @@ Arquitectura
 Esquema visual del repositorio del dashboard
 Relación entre Frontend y Backend.
 Stack tecnológico
+
+3.-
+Ahora en el archivo conventions.md quiero que recojas el análisis del repositorio, desde el punto de vista de estándares y patrones de codificación y lo recojas en conventions.md
+
+4.-
+Eres un desarrollador senior experto en AI Engineering a cargo del proyecto de este repositorio. El desarrollo se ha dado antes que la implementación de las reglas de proyecto que se dan antes de comenzar un proyecto con agentes, así que en rules.md quiero que recojas estas reglas para asegurar que los desarrolladores del dashboard sepan cómo deben crear el código.
