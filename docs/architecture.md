@@ -100,3 +100,5 @@ flowchart LR
 - Docker + Docker Compose (orquestación de los dos servicios, `docker compose up --build`)
 - Proxy HTTP integrado en Vite (`/api` → `backend:8000`), sin necesidad de variables de entorno en desarrollo
 - Documentación de API autogenerada por FastAPI (Swagger UI) en `/docs`
+
+
